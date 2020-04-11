@@ -1,0 +1,25 @@
+{
+  "name": "react-hamlet-components",
+  "version": "0.1.0",
+  "description": "React components for the hamlet framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamlet-io/react-hamlet-components.git"
+  },
+  "keywords": [
+    "hamlet",
+    "hamletio",
+    "hamlet.io",
+    "hamlet-io"
+  ],
+  "author": "rossmurr4y (https://hamlet.io)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hamlet-io/react-hamlet-components/issues"
+  },
+  "homepage": "https://github.com/hamlet-io/react-hamlet-components#readme"
+}
